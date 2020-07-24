@@ -1,7 +1,7 @@
 # My Personal Portfolio
 ![protótipo v.1](/docs/page-preview.png "v.1")
 Project contains the source code of my personal porfolio available
-on: [https://snio.now.sh](https://snio.now.sh).
+on: [https://github.com/mohamedebrahim96](https://github.com/mohamedebrahim96).
 
 ## Technologies
 The website was built with:

@@ -7,18 +7,18 @@ import Resume from './Resume';
 
 const resumeCards = [
 	{
-		title: 'Back-End',
-		description: 'I can develop APIs with REST/GraphQL architecture',
+		title: 'Android Development',
+		description: 'I can develop android apps with clean architecture.',
 		icon: () => <AiOutlineApi className='text-green-lighter' />
 	},
 	{
-		title: 'Front-End',
-		description: 'Front-end develop with React and Nextjs',
+		title: 'iOS Development',
+		description: 'I developed many iOS applications on app store.',
 		icon: () => <FaCode className='text-green-lighter' />
 	},
 	{
-		title: 'Deployment',
-		description: 'Infrastructure with Google Cloud Platform and Vercel',
+		title: 'UIUX Design',
+		description: 'I care about the design of my apps so that will be easy to users to understand.',
 		icon: () => <AiOutlineCloudServer className='text-green-lighter' />
 	}
 ];
