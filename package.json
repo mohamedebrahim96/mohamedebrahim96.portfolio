@@ -9,7 +9,8 @@
     "deploy": "gh-pages -d build",
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "prod": "next export"
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^2.3.0",
