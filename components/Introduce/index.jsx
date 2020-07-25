@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaCode } from 'react-icons/fa';
-import { AiOutlineApi, AiOutlineCloudServer } from 'react-icons/ai';
+import { AiOutlineApi, AiOutlineCloudServer,AiFillRobot } from 'react-icons/ai';
 
 import ResumeCard from './ResumeCard';
 import Resume from './Resume';
@@ -20,6 +20,11 @@ const resumeCards = [
 		title: 'UIUX Design',
 		description: 'I care about the design of my apps so that will be easy to users to understand.',
 		icon: () => <AiOutlineCloudServer className='text-green-lighter' />
+	},
+	{
+		title: 'Machine Learning',
+		description: 'The study of computer algorithms that improve automatically through experience.Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, ',
+		icon: () => <AiFillRobot className='text-green-lighter' />
 	}
 ];
 

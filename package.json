@@ -1,7 +1,7 @@
 {
   "homepage": "http://mohamedebrahim96.github.io/mohamedebrahim96.portfolio",
-  "name": "snio-resume",
-  "version": "1.0.0",
+  "name": "mohamedebrahim96-resume",
+  "version": "1.4.7",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
