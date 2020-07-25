@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1933" height="367" viewBox="0 0 1933 367">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 408.375px;
+        fill: #fff;
+        font-family: "SF Pro Display";
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #67f3aa;
+      }
+    </style>
+  </defs>
+  <text id="_mo.dev_" data-name="{mo.dev};" class="cls-1" transform="translate(11.686 296.539) scale(0.963)">{mo.<tspan class="cls-2">dev</tspan>};</text>
+</svg>
