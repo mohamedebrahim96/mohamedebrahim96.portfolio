@@ -17,7 +17,7 @@ $ git clone https://github.com/mohamedebrahim96/mohamedebrahim96.portfolio
 ```
 ### Install dependencies
 ```sh
-$ cd snio.portfolio
+$ cd mohamedebrahim96.portfolio
 $ yarn install ## or npm install
 ```
 ### Running the Nestjs server
