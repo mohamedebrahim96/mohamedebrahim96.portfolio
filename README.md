@@ -13,7 +13,7 @@ The website was built with:
 If you want to run this application locally, follow the steps.
 ### Cloning repository
 ```sh
-$ git clone https://github.com/sineto/snio.portfolio
+$ git clone https://github.com/mohamedebrahim96/mohamedebrahim96.portfolio
 ```
 ### Install dependencies
 ```sh
@@ -37,9 +37,9 @@ by [DevPleno](https://devpleno.com/).
 
 ## Self-Promotion
 Do you like this project? Come on:
-- Star and follow the repository on [GitHub](https://github.com/sineto/snio.portfolio).
+- Star and follow the repository on [GitHub](https://mohamedebrahim96.herokuapp.com/).
 - Follow me on
-  - [GitHub](https://github.com/sineto)
+  - [GitHub](https://github.com/mohamedebrahim96)
 
 ## License
 [MIT License](LICENSE)
