@@ -8,9 +8,7 @@ The website was built with:
 - [Nextjs](https://nextjs.org)
 - [TailwindCSS](https://tailwindcss.com/)
 - [PurgeCSS](https://purgecss.com/)
-
-
-changes 
+ 
 ## Development Environment
 If you want to run this application locally, follow the steps.
 ### Cloning repository
