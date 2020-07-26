@@ -10,7 +10,6 @@ The website was built with:
 - [PurgeCSS](https://purgecss.com/)
  
 
- 
 ## Development Environment
 If you want to run this application locally, follow the steps.
 ### Cloning repository
