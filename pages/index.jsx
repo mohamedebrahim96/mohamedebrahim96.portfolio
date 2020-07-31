@@ -15,7 +15,7 @@ const Index = ({ repositories }) => {
 			<PageHead />
 			<Header />
 			<Hero />
-			<Inyarntroduce />
+			<Introduce />
 			<Repositories repositories={repositories} />
 			<Footer />
 		</>
