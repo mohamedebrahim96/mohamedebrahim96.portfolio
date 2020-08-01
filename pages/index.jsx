@@ -23,9 +23,6 @@ const Index = ({ repositories }) => {
 };
 
 export const getServerSideProps = async (context) => {
-	// const request = await fetch(`${process.env.API_HOST}/api/getUser`);
-
-        // call getData module instead of fetch api
         const { repositories } = await getData('mohamedebrahim96');
 	return {
 		props: {
@@ -34,14 +31,5 @@ export const getServerSideProps = async (context) => {
 	};
 };
 
-// export const getServerSideProps = async (context) => {
-// 	const request = await fetch(`${process.env.API_HOST}/api/getUser`);
-// 	const { repositories } = await request.json();
-// 	return {
-// 		props: {
-// 			repositories
-// 		}
-// 	};
-// };
 
 export default Index;
