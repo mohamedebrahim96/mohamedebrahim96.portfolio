@@ -1,7 +1,7 @@
 # My Personal Portfolio
 ![protótipo v.1](/docs/page-preview.png "v.1")
 Project contains the source code of my personal porfolio available
-on: [https://mohamedebrahim96.herokuapp.com/](https://mohamedebrahim96.herokuapp.com/).
+on: [https://mohamedebrahim96.vercel.app](https://mohamedebrahim96.vercel.app).
 
 ## Technologies
 The website was built with:
